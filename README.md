@@ -1,2 +1,2 @@
 # hello-world
-A first. Might have useless code.
+A first. Might have useless code. Yep, very useless.
